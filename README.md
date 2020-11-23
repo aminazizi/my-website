@@ -1,2 +1,2 @@
 # my-website
-BLAH BLAH BLAH!!!!
+ THIS IS MY WEBSITE
